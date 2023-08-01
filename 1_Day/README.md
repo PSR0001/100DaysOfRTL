@@ -9,6 +9,6 @@ output carry,sum
 ```
 
 ### Simulation
-![full_adder](/1_Day/image/half_adder.png)
+![full_adder](image/half_adder.png)
 ### Schematic
-![full_adder](/1_Day/image/half_adder_sch.png)
+![full_adder](image/half_adder_sch.png)
